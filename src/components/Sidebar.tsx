@@ -1,13 +1,6 @@
 import { Link } from "react-router";
 import { BsBox2HeartFill, BsPlusCircleFill } from "react-icons/bs";
 export default function Sidebar() {
-  function Sidebar() {
-  return (
-    <div>
-      <BsPlusCircleFill />
-    </div>
-  );
-}
   return (
     <aside
       className="d-flex align-items-start flex-column p-4 bg-primary min-vh-100"
