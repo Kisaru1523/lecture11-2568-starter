@@ -1,5 +1,5 @@
 import { Link } from "react-router";
-import { BsBox2HeartFill, BsPlusCircleFill } from "react-icons/bs";
+import { BsBox2HeartFill } from "react-icons/bs";
 export default function Sidebar() {
   return (
     <aside
