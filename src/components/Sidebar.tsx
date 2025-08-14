@@ -14,6 +14,7 @@ export default function Sidebar() {
             <li className="nav-item">
               <Link className="nav-link active" aria-current="page" to={"/"}>
                 <BsBox2HeartFill />
+                <BsPlusCircleFill />
                 <span className="d-md-inline px-2">Home</span>
               </Link>
             </li>
